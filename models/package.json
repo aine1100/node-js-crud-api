@@ -1,0 +1,13 @@
+{
+  "name": "models",
+  "version": "1.0.0",
+  "description": "",
+  "main": "product.model.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon product.model.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
